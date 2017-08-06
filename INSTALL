@@ -1,0 +1,9 @@
+Building Ruble
+
+See doc/readme-qt.rst for instructions on building Ruble-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Ruble.
+
+See doc/build-*.txt for instructions on building rubled,
+the intended-for-services, no-graphical-interface, reference
+implementation of Ruble.
